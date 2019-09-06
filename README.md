@@ -1,4 +1,4 @@
 # Shift-Management-Server
-This is a Shift Management Server implement according to the given API requirements.
+The ShiftManServer class implements the ShiftMan interface, which contains the API requirements.
 
 Read the Shift_management_server_design.pdf file to understand the design.
